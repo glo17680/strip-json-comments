@@ -1,4 +1,4 @@
-# strip-json-comments
+# strip-json-comments #
 
 > Strip comments from JSON. Lets you use comments in your JSON files!
 
